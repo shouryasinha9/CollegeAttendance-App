@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyAttendance</string>
+    <string name="Sign_in_google">Sign in with Google</string>
+    <string name="facebook_sign_in">Sign in with Facebook</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have an account? Sign Up Here</string>
+    <string name="other">--------OR--------</string>
+
+    <!--Reg_Activity-->
+
+    <string name="student">I am a Student</string>
+    <string name="teacher">I am a Teacher</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="roll_no">Enter Roll no.</string>
+    <string name="choice">Select your role: </string>
+    <string name="name">Enter Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="general"><b>General</b></string>
+    <string name="acc"><b>Account</b></string>
+    <string name="title_activity_student_activity">Student_activity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_student">StudentActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_student__main">Student_Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_set_attendance">SetAttendance</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
